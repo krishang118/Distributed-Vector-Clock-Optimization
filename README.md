@@ -19,3 +19,11 @@ Vector clocks maintain partial ordering of events in distributed systems. The Si
 1. Clone this repository on your local machine.
 2. Open `README.txt` to see the instructions to set up the environment.
 3. Run the files to observe the results.
+
+## Contributing
+
+Contributions are welcome!
+
+## License
+
+Distributed under the MIT License. 
